@@ -14,10 +14,15 @@ Screws and nuts:
 - M2.5x25 x 2pcs for the camera frame reinforcement
 
 
-![Photo](/Pictures/Photo_1.png)
-![Photo](/Pictures/Photo_2.png)
-![Photo](/Pictures/Photo_3.png)
-![Photo](/Pictures/Photo_4.png)
-![Photo](/Pictures/Photo_5.png)
-![Photo](/Pictures/Photo_6.png)
+![Camera mounting](/Pictures/Pic_1.png)
+![Side view](/Pictures/Pic_2.png)
+![Antenna mounting](/Pictures/Pic_3.png)
+
+![Photo](/Pictures/Photo_1.jpg)
+![Photo](/Pictures/Photo_2.jpg)
+![Photo](/Pictures/Photo_3.jpg)
+![Photo](/Pictures/Photo_4.jpg)
+![Photo](/Pictures/Photo_5.jpg)
+![Photo](/Pictures/Photo_6.jpg)
+
 
