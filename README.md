@@ -17,3 +17,4 @@ Screws and nuts:
 ![Camera mounting](https://raw.githubusercontent.com/dudasdavid/Jetson-nano-case/tree/master/Pictures/Pic_1.png)
 ![Side view](https://raw.githubusercontent.com/dudasdavid/Jetson-nano-case/tree/master/Pictures/Pic_2.png)
 ![Antenna mounting](https://raw.githubusercontent.com/dudasdavid/Jetson-nano-case/tree/master/Pictures/Pic_3.png)
+[[https://github.com/dudasdavid/Jetson-nano-case/tree/master/Pictures/Pic_1.png|alt=Camera mounting]]
